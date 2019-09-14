@@ -82,6 +82,8 @@ class Adapter(val mCtx: Context, val layoutResId: Int, val list: List<Users> )
         }
         val alert = builder.create()
         alert.show()
+
+        
     }
     }
 
